@@ -19,5 +19,8 @@ class Solution:
             else:
                 value += 1
                 
-        return value                
+        return value  
+
+#Time Complexity: O(n)
+#Space Complexity: O(1)                      
                     
